@@ -1,5 +1,6 @@
-# BWAStore HTML Starter Template
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
+# Marketplace Waybill
+
+Online Store Waybill.Id
 
 ## Lisensi
 
